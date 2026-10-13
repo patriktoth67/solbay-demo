@@ -1,0 +1,17 @@
+{
+ "kb_name": "Solbay Súgóközpont",
+ "categories": [
+  {"name": "Rendelés és szállítás", "description": "Szállítási idők, csomagkövetés és rendelésmódosítás.", "articles": [
+   {"title": "Mennyi idő alatt érkezik meg a rendelésem?", "html": "<p>A legtöbb rendelés egy munkanapon belül elhagyja a raktárunkat. Ezután a szokásos szállítási idők:</p><ul><li><strong>Magyarország:</strong> 1–2 munkanap.</li><li><strong>Európai Unió:</strong> 3–5 munkanap.</li><li><strong>A világ többi része:</strong> 5–10 munkanap.</li></ul><p>A szállítás <strong>25 000 Ft</strong> feletti rendelésnél ingyenes, alatta 1 490 Ft.</p>"},
+   {"title": "Hogyan követhetem a csomagomat?", "html": "<p>Amint a csomag elindul, küldünk egy e-mailt a követési linkkel, általában egy órán belül.</p><p>A rendelésszám <strong>SB-</strong> kezdetű (például SB-48211). A csomag állapotát bármikor megnézheted a <strong>Fiókom &gt; Rendeléseim</strong> menüpontban is.</p><p>Ha a követés 3 munkanapja nem változott, írj nekünk a chatben a rendelésszámmal, és utánanézünk a futárszolgálatnál.</p>"}
+  ]},
+  {"name": "Visszaküldés és csere", "description": "30 napos visszaküldés, ingyenes méretcsere, visszatérítés.", "articles": [
+   {"title": "Visszaküldés és visszatérítés", "html": "<p>Minden használatlan terméket <strong>30 napon belül</strong> visszaküldhetsz.</p><ol><li>A <strong>Fiókom &gt; Rendeléseim</strong> oldalon válaszd a <strong>Visszaküldés indítása</strong> gombot.</li><li>Nyomtasd ki a címkét, vagy mutasd fel a QR-kódot a csomagponton.</li><li>Csomagold vissza a terméket az eredeti dobozába, és add le.</li></ol><p>Amint a csomag beérkezik, átnézzük, és a visszatérítés <strong>3–5 munkanapon</strong> belül megjelenik az eredeti fizetési módodon.</p>"},
+   {"title": "Csere másik méretre", "html": "<p>Nem jó a méret? A méretcsere <strong>30 napig ingyenes</strong>, oda-vissza.</p><p>A visszaküldésnél válaszd a <strong>Csere másik méretre</strong> lehetőséget, és add meg az új méretet. Az új méretet már akkor feladjuk, amikor a futár beolvassa a visszaküldött csomagot.</p>"}
+  ]},
+  {"name": "Termékek és ápolás", "description": "Méretválasztás, bőrápolás és garancia.", "articles": [
+   {"title": "A bőrtermékek ápolása", "html": "<p>Táskáink, pénztárcáink és kártyatartóink teljes szemcséjű, növényi cserzésű bőrből készülnek, amely használat közben szépen sötétedik és puhul.</p><ul><li>A port puha, száraz ruhával töröld le.</li><li>3–6 havonta ápold semleges bőrápoló balzsammal.</li><li>Ha átázik, hagyd lassan, szobahőmérsékleten megszáradni, távol a radiátortól.</li></ul>"},
+   {"title": "3 év garancia a bőrtermékekre", "html": "<p>Minden Solbay bőrtermékre <strong>3 év garanciát</strong> adunk a varrásra és a fémalkatrészekre. Ha normál használat mellett szétnyílik egy varrás vagy eltörik egy csat, ingyen megjavítjuk vagy kicseréljük.</p><p>Garanciális igényhez írj nekünk a chatben a rendelésszámmal és egy fotóval a hibáról.</p>"}
+  ]}
+ ]
+}
